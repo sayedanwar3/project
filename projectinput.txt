@@ -1,0 +1,13 @@
+(services_fees)
+full_maintenace=2000LE
+full_chick=60LE
+10000km_oil=1260LE
+oil_filter=190LE
+car_spark_plugs=2500LE
+air_filter=600LE
+gear_oil=1100LE
+benzene_filter=1500LE
+brake_oil=1500LE
+water_cooling=390LE
+belt=900LE
+chick_Brake_Linings=90LE
